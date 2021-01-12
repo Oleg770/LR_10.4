@@ -1,0 +1,7 @@
+bmw,mrk1,2000, mrk2, 3000, mrk3 4000,max: 4000
+bently,mrk1,9000, mrk2,10000,mrk3, 8000,max: 10000
+lexus,mrk1,5000, mrk2,3000, mrk3, 2400,max: 5000
+skoda,mrk1,1200, mrk2,2000,mrk3,2700,max: 2700
+ferarri, mrk1,10000, mrk2,7000, mrk3,9000,max: 10000
+lexus, mrk1,4700, mrk2,3000, mrk3,3900,max: 4700
+Acura, mrk1,3800, mrk2,2500, mrk3,1300,max: 3800
